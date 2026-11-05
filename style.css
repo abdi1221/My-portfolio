@@ -468,6 +468,7 @@ span {
 .education-box p {
   color: #ccc;
   line-height: 1.7;
+  font-size: 1.3rem;
 }
 @media (max-width: 600px) {
   .education {
@@ -663,6 +664,7 @@ span {
   color: #bbb;
   line-height: 1.8;
   margin-bottom: 35px;
+  font-size: 1.3rem;
 }
 
 .contact-item {
@@ -683,8 +685,12 @@ span {
   border: 1px solid #35414d;
   border-radius: 10px;
   font-size: 3rem;
+  transition: 0.3s;
 }
-
+.contact-item i:hover {
+  transform: translateY(-3px);
+  background: #008cc4;
+}
 .contact-item h4 {
   margin-bottom: 7px;
   font-size: 1rem;
@@ -757,7 +763,7 @@ span {
   align-items: center;
   gap: 10px;
   padding: 14px;
-  background: #00abf0;
+  background: #b74b4b;
   color: #151a1f;
   border: none;
   border-radius: 8px;

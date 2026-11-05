@@ -8,12 +8,14 @@ This is my personal portfolio website, created to introduce myself as a Software
 
 - HTML
 - CSS
-  -Bootstrap
-  -Devicon icons
+- Bootstrap
+- Devicon Icons
+- Git
 
 ## Features
 
 - Responsive navigation bar
+- Home section
 - About Me section
 - Education section
 - Skills section
@@ -26,4 +28,4 @@ This is my personal portfolio website, created to introduce myself as a Software
 
 ## Author
 
-Abdi Busha
+- Abdi Busha
